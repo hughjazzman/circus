@@ -8,7 +8,7 @@ public class Duck extends Bird {
 
     @Override
     public String toString() {
-        return "I'm a Duck";
+        return "I'm a circus.animal.Duck";
     }
 
     public void swim() {
